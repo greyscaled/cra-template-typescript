@@ -1,6 +1,6 @@
 {
   "name": "@vapurrmaid/cra-template-typescript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An opinionated create-react-app template for TS projects",
   "keywords": [
     "create-react-app",
