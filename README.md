@@ -3,6 +3,12 @@
 [@vapurrmaid](https://github.com/vapurrmaid)'s opinionated TypeScript React
 setup
 
+## Installation
+
+```bash
+npx create-react-app <name> --template @vapurrmaid/cra-template-typescript
+```
+
 ## Project Structure
 
 The shell project placed a `.gitkeep` placeholder in each of the following:
